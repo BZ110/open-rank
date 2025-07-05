@@ -1,5 +1,5 @@
 # open-rank
-Open Rank is an infrastructure built and maintained by me to provide an easy way for all Minecraft communities to have a free and safe way for competition.
+Designed to be fast, free, and it stops monopolization. *I think.*
 ## What Does It Include?
 - Minecraft server verification code
 - Discord bot
